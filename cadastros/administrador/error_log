@@ -1,0 +1,110 @@
+[19-May-2016 22:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/cadastrar.php on line 101
+[13-Jun-2016 17:19:56 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 70
+[13-Jun-2016 17:19:56 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 70
+[13-Jun-2016 17:19:56 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 70
+[13-Jun-2016 17:19:56 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 71
+[13-Jun-2016 17:19:56 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:19:56 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:19:56 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:19:56 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 106
+[13-Jun-2016 17:19:56 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 131
+[13-Jun-2016 17:19:56 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 148
+[13-Jun-2016 17:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 71
+[13-Jun-2016 17:20:34 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:20:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:20:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:20:34 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 106
+[13-Jun-2016 17:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 131
+[13-Jun-2016 17:20:34 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 148
+[13-Jun-2016 17:20:55 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:20:55 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:20:55 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 98
+[13-Jun-2016 17:20:55 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 106
+[13-Jun-2016 17:20:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 131
+[13-Jun-2016 17:20:55 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 148
+[13-Jun-2016 17:21:30 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 106
+[13-Jun-2016 17:21:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 131
+[13-Jun-2016 17:21:30 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 148
+[13-Jun-2016 17:21:45 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 131
+[13-Jun-2016 17:21:45 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 148
+[13-Jun-2016 17:22:03 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 148
+[13-Jun-2016 17:47:51 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/cadastrar.php on line 208
+[13-Jun-2016 17:47:51 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/cadastrar.php on line 208
+[13-Jun-2016 17:47:51 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/cadastrar.php on line 208
+[13-Jun-2016 17:47:51 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/cadastrar.php on line 209
+[13-Jun-2016 18:50:27 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 101
+[13-Jun-2016 19:19:21 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 93
+[13-Jun-2016 19:19:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 93
+[13-Jun-2016 19:19:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 93
+[13-Jun-2016 19:19:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 94
+[13-Jun-2016 19:19:21 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[13-Jun-2016 19:19:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[13-Jun-2016 19:19:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[13-Jun-2016 19:19:21 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 235
+[13-Jun-2016 19:20:00 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[13-Jun-2016 19:20:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[13-Jun-2016 19:20:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[13-Jun-2016 19:20:00 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 235
+[18-Jun-2016 11:43:30 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[18-Jun-2016 11:43:30 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[18-Jun-2016 11:43:30 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 234
+[18-Jun-2016 11:43:30 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 235
+[18-Jun-2016 11:46:12 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 90
+[18-Jun-2016 11:46:12 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 90
+[18-Jun-2016 11:46:12 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/editar.php on line 90
+[24-Jun-2016 16:17:48 America/Sao_Paulo] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 71
+[25-Jun-2016 12:03:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 71
+[25-Jun-2016 14:40:21 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php:275) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/mpdf60/mpdf.php on line 8297
+[25-Jun-2016 14:40:21 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php:275) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/mpdf60/mpdf.php on line 1706
+[26-Jun-2016 17:13:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/pdf.php on line 70
+[26-Jun-2016 17:13:46 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/pdf.php on line 27
+[26-Jun-2016 17:13:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/pdf.php on line 52
+[26-Jun-2016 17:13:46 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/pdf.php:27) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/mpdf60/mpdf.php on line 8297
+[26-Jun-2016 17:13:46 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/pdf.php:27) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/mpdf60/mpdf.php on line 1706
+[27-Jun-2016 23:26:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 70
+[27-Jun-2016 23:38:34 America/Sao_Paulo] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/administrador/index.php on line 70
+[20-Feb-2017 16:32:52 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-Feb-2017 16:32:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 16:58:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 17:05:40 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[27-Apr-2017 12:05:44 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Aug-2019 17:10:33 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Aug-2019 17:10:43 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Aug-2019 17:11:01 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Sep-2019 12:12:24 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0

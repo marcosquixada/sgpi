@@ -1,0 +1,1165 @@
+[24-Apr-2016 11:15:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/editar.php on line 41
+[24-Apr-2016 11:15:34 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/editar.php:41) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:26:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:61) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 75
+[24-Apr-2016 20:26:23 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:61) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:28:14 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 62
+[24-Apr-2016 20:28:14 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 62
+[24-Apr-2016 20:28:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:62) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 75
+[24-Apr-2016 20:28:14 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:62) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:29:58 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 66
+[24-Apr-2016 20:29:58 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 66
+[24-Apr-2016 20:29:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:61) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 79
+[24-Apr-2016 20:29:58 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:61) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:31:42 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 68
+[24-Apr-2016 20:31:42 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 68
+[24-Apr-2016 20:31:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 81
+[24-Apr-2016 20:31:42 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:32:13 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 68
+[24-Apr-2016 20:32:13 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 68
+[24-Apr-2016 20:32:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 81
+[24-Apr-2016 20:32:13 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:32:22 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 68
+[24-Apr-2016 20:32:22 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 68
+[24-Apr-2016 20:32:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 81
+[24-Apr-2016 20:32:22 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:33:00 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 68
+[24-Apr-2016 20:33:00 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 68
+[24-Apr-2016 20:33:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:64) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 81
+[24-Apr-2016 20:33:00 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:64) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:34:01 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 69
+[24-Apr-2016 20:34:01 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 69
+[24-Apr-2016 20:34:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:64) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 82
+[24-Apr-2016 20:34:01 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:64) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:37:15 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 66
+[24-Apr-2016 20:37:15 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 66
+[24-Apr-2016 20:37:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:66) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 79
+[24-Apr-2016 20:37:15 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:66) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:37:31 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 66
+[24-Apr-2016 20:37:31 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 66
+[24-Apr-2016 20:37:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:66) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 79
+[24-Apr-2016 20:37:31 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:66) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:38:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:66) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 79
+[24-Apr-2016 20:38:30 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:66) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:40:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:66) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 79
+[24-Apr-2016 20:40:36 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:66) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:55:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 78
+[24-Apr-2016 20:55:28 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 20:58:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 78
+[24-Apr-2016 20:58:23 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 21:03:44 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 34
+[24-Apr-2016 21:04:12 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 34
+[24-Apr-2016 21:05:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 78
+[24-Apr-2016 21:05:42 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[24-Apr-2016 21:07:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 78
+[24-Apr-2016 21:07:06 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:65) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[25-Apr-2016 21:41:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 62
+[25-Apr-2016 21:43:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:79) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 100
+[25-Apr-2016 21:43:29 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:79) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[25-Apr-2016 21:55:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:79) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 102
+[25-Apr-2016 21:55:40 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:79) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[25-Apr-2016 22:17:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:79) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 100
+[25-Apr-2016 22:17:19 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:79) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[25-Apr-2016 22:19:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:82) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 101
+[25-Apr-2016 22:19:00 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:82) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[25-Apr-2016 22:21:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:97) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 101
+[25-Apr-2016 22:21:55 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:97) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[25-Apr-2016 22:24:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:82) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 101
+[25-Apr-2016 22:24:34 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:82) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[25-Apr-2016 22:27:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:82) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 101
+[25-Apr-2016 22:27:33 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php:82) in /home/mqsys082/public_html/sgpi/header.php on line 3
+[25-Apr-2016 22:29:16 America/Chicago] PHP Warning:  include_once(conectar.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 8
+[25-Apr-2016 22:29:16 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'conectar.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 8
+[25-Apr-2016 22:29:16 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 18
+[25-Apr-2016 22:29:16 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 18
+[25-Apr-2016 22:29:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 19
+[25-Apr-2016 23:05:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 20
+[25-Apr-2016 23:07:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 20
+[26-Apr-2016 13:53:46 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 48
+[26-Apr-2016 13:54:07 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 48
+[26-Apr-2016 15:45:32 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar_senha.php on line 35
+[26-Apr-2016 15:45:32 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar_senha.php on line 35
+[26-Apr-2016 16:16:12 America/Chicago] PHP Warning:  include(/sgpi/conexao/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar_senha.php on line 2
+[26-Apr-2016 16:16:12 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/sgpi/conexao/db.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar_senha.php on line 2
+[26-Apr-2016 16:16:47 America/Chicago] PHP Warning:  include(conexao/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar_senha.php on line 2
+[26-Apr-2016 16:16:47 America/Chicago] PHP Warning:  include(conexao/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar_senha.php on line 2
+[26-Apr-2016 16:16:47 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'conexao/db.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar_senha.php on line 2
+[26-Apr-2016 16:24:37 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar_senha.php on line 35
+[26-Apr-2016 16:47:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php:47) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 48
+[26-Apr-2016 16:48:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php:12) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 49
+[26-Apr-2016 16:51:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php:47) in /home/mqsys082/public_html/sgpi/cadastros/Usuario/ativar.php on line 48
+[26-Apr-2016 17:18:23 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 145
+[26-Apr-2016 17:18:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 145
+[26-Apr-2016 17:19:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 145
+[26-Apr-2016 17:19:50 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mqsys082/public_html/sgpi/cadastros/Usuario/cadastrar.php on line 149
+[18-Jun-2016 09:10:44 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/ativar.php on line 18
+[18-Jun-2016 09:10:44 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/ativar.php on line 18
+[18-Jun-2016 09:10:44 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/ativar.php on line 18
+[18-Jun-2016 09:12:58 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[18-Jun-2016 09:12:58 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[18-Jun-2016 09:12:58 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[18-Jun-2016 09:15:54 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[18-Jun-2016 09:15:54 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[18-Jun-2016 09:15:54 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[21-Jun-2016 17:56:01 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[21-Jun-2016 17:56:01 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[21-Jun-2016 17:56:01 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[21-Jun-2016 17:56:19 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[21-Jun-2016 17:56:19 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[21-Jun-2016 17:56:19 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[22-Jun-2016 15:29:03 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[22-Jun-2016 15:29:03 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[22-Jun-2016 15:29:03 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[22-Jun-2016 15:29:36 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[22-Jun-2016 15:29:36 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[22-Jun-2016 15:29:36 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/cadastrar_senha.php on line 35
+[23-Jun-2016 01:20:52 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Jun-2016 01:21:57 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Jun-2016 01:24:41 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Jun-2016 15:02:13 America/Sao_Paulo] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/resetar_senha.php on line 23
+[05-Jan-2017 16:08:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/resetar_senha.php on line 9
+[05-Jan-2017 16:14:35 America/Sao_Paulo] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/usuario/resetar_senha.php on line 9
+[30-Jan-2017 21:37:35 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jan-2017 21:37:36 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jan-2017 21:37:51 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Feb-2017 17:40:24 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Feb-2017 17:40:24 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Feb-2017 17:41:03 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Feb-2017 17:41:03 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Feb-2017 17:40:15 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Feb-2017 17:40:15 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Feb-2017 17:40:25 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Feb-2017 17:40:25 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Feb-2017 17:40:35 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Feb-2017 17:40:38 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Feb-2017 17:41:15 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 17:40:52 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 21:37:37 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 21:37:37 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 21:38:33 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 21:41:19 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 21:41:19 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 21:42:40 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 21:42:40 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 15:24:58 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 15:26:28 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 15:26:50 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 15:27:04 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 15:30:03 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 15:43:38 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 15:44:06 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 16:30:32 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 16:41:45 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 19:36:30 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Feb-2017 19:36:30 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-Feb-2017 16:35:37 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-Feb-2017 16:35:45 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-Feb-2017 16:36:08 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Feb-2017 14:16:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Feb-2017 14:16:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Feb-2017 14:18:01 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 09:57:25 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 09:57:25 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 17:17:16 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 17:17:16 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 17:17:48 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2017 14:30:08 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2017 14:30:08 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2017 14:30:42 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2017 14:32:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2017 14:32:27 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2017 14:32:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2017 14:32:56 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 08:22:30 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 08:22:31 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 08:22:50 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 10:25:49 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 11:30:16 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 11:30:46 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 11:31:18 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 11:31:19 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 11:33:20 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 15:39:06 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 20:43:29 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Mar-2017 20:43:29 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2017 15:49:37 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2017 15:49:38 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Mar-2017 14:25:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Mar-2017 14:25:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Mar-2017 14:25:31 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Mar-2017 14:25:31 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Mar-2017 10:48:14 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Mar-2017 10:56:29 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Mar-2017 10:57:11 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 10:28:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 10:28:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 14:42:29 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 14:42:29 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 14:48:59 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 14:56:38 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 14:57:00 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 14:57:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 14:59:52 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 15:00:08 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 15:01:23 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 15:01:40 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 17:21:09 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 17:21:27 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 17:22:35 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2017 17:22:53 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Mar-2017 12:11:54 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Mar-2017 12:11:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Mar-2017 12:12:47 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Mar-2017 14:18:30 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Mar-2017 14:19:11 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Mar-2017 14:20:06 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Mar-2017 14:21:28 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Mar-2017 14:22:25 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Mar-2017 11:12:38 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Mar-2017 11:12:39 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Mar-2017 11:14:27 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Mar-2017 11:48:05 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Mar-2017 11:48:05 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 16:16:33 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 16:53:09 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 16:53:49 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 16:53:57 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:40:34 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:40:34 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:40:53 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:46:44 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:46:44 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:46:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:13:25 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:13:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:13:45 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 15:59:10 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 15:59:11 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[27-Mar-2017 17:27:13 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Mar-2017 08:33:16 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Mar-2017 08:34:10 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Mar-2017 08:34:30 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Mar-2017 08:34:53 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Mar-2017 09:19:03 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Mar-2017 09:19:23 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Mar-2017 09:19:40 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Mar-2017 18:14:53 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Mar-2017 18:14:53 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Mar-2017 18:15:06 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 20:54:45 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 20:54:45 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 20:54:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 12:34:56 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 12:34:57 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Apr-2017 09:14:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Apr-2017 09:14:56 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Apr-2017 09:15:11 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Apr-2017 19:20:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Apr-2017 19:20:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Apr-2017 20:58:11 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 08:46:13 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 08:47:29 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 08:47:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 21:33:53 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 21:47:18 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 21:48:08 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 21:48:43 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 21:49:13 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 21:49:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 21:50:27 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 21:51:43 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-Apr-2017 10:56:52 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-Apr-2017 10:57:43 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-Apr-2017 10:58:30 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-Apr-2017 10:59:35 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-Apr-2017 10:59:42 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-Apr-2017 15:41:44 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-Apr-2017 15:41:44 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Apr-2017 13:38:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-May-2017 06:54:21 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[02-Jun-2017 18:59:07 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[02-Jun-2017 18:59:07 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[02-Jun-2017 18:59:50 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[02-Jun-2017 19:00:44 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[02-Jun-2017 19:01:52 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Jun-2017 07:24:58 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jul-2017 11:22:40 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Jul-2017 15:31:03 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 18:11:18 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Aug-2017 08:02:45 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Aug-2017 18:38:08 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 18:40:38 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[04-Oct-2017 11:08:31 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Oct-2017 07:27:07 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[26-Oct-2017 14:09:41 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[01-Nov-2017 08:09:13 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Nov-2017 02:49:54 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[26-Nov-2017 02:36:13 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Nov-2017 13:41:18 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Nov-2017 13:41:19 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Nov-2017 13:41:51 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[04-Dec-2017 15:41:38 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Dec-2017 20:10:15 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Dec-2017 11:49:42 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Dec-2017 20:10:35 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[03-Jan-2018 00:33:13 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-Jan-2018 15:20:00 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Jan-2018 18:08:00 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:26:42 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[27-Jan-2018 06:04:50 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 15:04:50 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 15:04:51 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 15:07:17 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 15:07:18 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 15:45:07 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Sep-2019 14:21:08 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Sep-2019 14:21:08 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Sep-2019 14:21:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Sep-2019 14:21:56 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Sep-2019 14:22:16 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[10-Sep-2019 09:11:21 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[10-Sep-2019 09:11:22 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[10-Sep-2019 09:11:48 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[10-Sep-2019 14:34:22 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[10-Sep-2019 14:34:22 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[10-Sep-2019 14:35:23 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[11-Sep-2019 16:58:51 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[11-Sep-2019 16:58:51 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[11-Sep-2019 16:59:06 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[11-Sep-2019 21:28:45 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[11-Sep-2019 21:28:46 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0

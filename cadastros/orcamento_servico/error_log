@@ -1,0 +1,38 @@
+[27-May-2016 22:20:09 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/cadastrar.php on line 67
+[27-May-2016 22:23:13 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/cadastrar.php on line 67
+[27-May-2016 22:48:30 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/cadastrar.php:66) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[27-May-2016 22:48:32 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 36
+[27-May-2016 22:48:32 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 43
+[27-May-2016 23:18:57 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 36
+[27-May-2016 23:18:57 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 43
+[13-Jun-2016 19:45:43 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 17
+[13-Jun-2016 19:45:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 17
+[13-Jun-2016 19:45:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 17
+[13-Jun-2016 19:45:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 36
+[13-Jun-2016 19:45:43 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 43
+[09-Jul-2016 13:52:56 America/Sao_Paulo] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 44
+[09-Jul-2016 13:52:56 America/Sao_Paulo] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 51
+[21-Mar-2017 18:58:15 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:43:25 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:39:07 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:39:07 America/Fortaleza] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 47
+[03-Apr-2017 15:39:07 America/Fortaleza] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 54
+[05-Apr-2017 21:46:21 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Apr-2017 21:46:21 America/Fortaleza] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 47
+[05-Apr-2017 21:46:21 America/Fortaleza] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/orcamento_servico/index.php on line 54

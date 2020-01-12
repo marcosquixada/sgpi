@@ -1,0 +1,551 @@
+[19-May-2016 22:24:01 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONST in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 74
+[19-May-2016 22:25:10 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONST in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 74
+[19-May-2016 22:25:15 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONST in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 77
+[19-May-2016 22:25:18 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONST in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 77
+[19-May-2016 22:25:51 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONST in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 77
+[20-May-2016 21:50:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 70
+[13-Jun-2016 17:22:22 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 69
+[13-Jun-2016 17:22:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 69
+[13-Jun-2016 17:22:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 69
+[13-Jun-2016 17:22:22 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 70
+[13-Jun-2016 17:22:22 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:22:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:22:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:22:22 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 98
+[13-Jun-2016 17:22:22 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 117
+[13-Jun-2016 17:22:22 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 135
+[13-Jun-2016 17:22:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 70
+[13-Jun-2016 17:22:58 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:22:58 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:22:58 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:22:58 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 98
+[13-Jun-2016 17:22:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 117
+[13-Jun-2016 17:22:58 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 135
+[13-Jun-2016 17:23:13 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:23:13 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:23:13 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 90
+[13-Jun-2016 17:23:13 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 98
+[13-Jun-2016 17:23:13 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 117
+[13-Jun-2016 17:23:13 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 135
+[13-Jun-2016 17:23:31 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 98
+[13-Jun-2016 17:23:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 117
+[13-Jun-2016 17:23:31 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 135
+[13-Jun-2016 17:23:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 117
+[13-Jun-2016 17:23:47 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 135
+[13-Jun-2016 18:51:14 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/index.php on line 93
+[13-Jun-2016 19:00:39 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:00:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:00:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:00:39 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 268
+[13-Jun-2016 19:00:39 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 367
+[13-Jun-2016 19:00:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 367
+[13-Jun-2016 19:00:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 367
+[13-Jun-2016 19:00:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 374
+[13-Jun-2016 19:00:39 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 382
+[13-Jun-2016 19:01:34 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:01:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:01:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:01:34 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 268
+[13-Jun-2016 19:01:54 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:01:54 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:01:54 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 267
+[13-Jun-2016 19:01:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 268
+[13-Jun-2016 19:21:45 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/editar.php on line 98
+[13-Jun-2016 19:21:45 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/editar.php on line 98
+[13-Jun-2016 19:21:45 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/editar.php on line 98
+[13-Jun-2016 19:21:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/editar.php on line 99
+[13-Jun-2016 19:21:45 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/editar.php on line 259
+[13-Jun-2016 19:21:45 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/editar.php on line 259
+[13-Jun-2016 19:21:45 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/editar.php on line 259
+[13-Jun-2016 19:21:45 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/editar.php on line 260
+[12-Jul-2016 13:38:54 America/Sao_Paulo] PHP Warning:  fopen(): Filename cannot be empty in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 113
+[12-Jul-2016 13:38:54 America/Sao_Paulo] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 114
+[12-Jul-2016 13:38:54 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 116
+[12-Jul-2016 13:38:54 America/Sao_Paulo] PHP Warning:  fopen(): Filename cannot be empty in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 113
+[12-Jul-2016 13:38:54 America/Sao_Paulo] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 114
+[12-Jul-2016 13:38:54 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 116
+[12-Jul-2016 13:50:05 America/Sao_Paulo] PHP Warning:  fopen(): Filename cannot be empty in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 113
+[12-Jul-2016 13:50:05 America/Sao_Paulo] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 114
+[12-Jul-2016 13:50:05 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 116
+[12-Jul-2016 14:26:11 America/Sao_Paulo] PHP Deprecated:  Function split() is deprecated in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 101
+[12-Jul-2016 16:09:16 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 107
+[12-Jul-2016 16:14:11 America/Sao_Paulo] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 104
+[12-Jul-2016 16:18:54 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 104
+[12-Jul-2016 16:24:33 America/Sao_Paulo] PHP Fatal error:  Call to undefined method mysqli::beginTransaction() in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 80
+[12-Jul-2016 16:39:43 America/Sao_Paulo] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/conexao/db.php on line 3
+[12-Jul-2016 16:39:43 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/conexao/db.php:3) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[12-Jul-2016 16:39:43 America/Sao_Paulo] PHP Fatal error:  Call to a member function beginTransaction() on null in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 80
+[12-Jul-2016 16:40:20 America/Sao_Paulo] PHP Warning:  mysql_select_db() expects parameter 1 to be string, object given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/conexao/db.php on line 3
+[12-Jul-2016 16:40:20 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/conexao/db.php:3) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[12-Jul-2016 16:40:20 America/Sao_Paulo] PHP Fatal error:  Call to a member function beginTransaction() on null in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 80
+[12-Jul-2016 16:41:30 America/Sao_Paulo] PHP Warning:  fopen(): Filename cannot be empty in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 116
+[12-Jul-2016 16:41:30 America/Sao_Paulo] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 117
+[12-Jul-2016 16:41:30 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 119
+[12-Jul-2016 16:41:30 America/Sao_Paulo] PHP Warning:  fopen(): Filename cannot be empty in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 116
+[12-Jul-2016 16:41:30 America/Sao_Paulo] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 117
+[12-Jul-2016 16:41:30 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 119
+[12-Jul-2016 16:46:00 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 125
+[12-Jul-2016 16:46:00 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 125
+[12-Jul-2016 17:51:56 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/sgpi/uploads/atendente/146/94040-timbrado4.pdf): failed to open stream: No such file or directory in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 121
+[12-Jul-2016 17:51:56 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqqh4Ys' to '/sgpi/uploads/atendente/146/94040-timbrado4.pdf' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 121
+[12-Jul-2016 18:01:04 America/Sao_Paulo] PHP Warning:  mkdir(): Permission denied in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 122
+[12-Jul-2016 18:01:04 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/sgpi/uploads/atendente/147/78117-timbrado4.pdf): failed to open stream: No such file or directory in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:01:04 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8GUsd3' to '/sgpi/uploads/atendente/147/78117-timbrado4.pdf' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:32:51 America/Sao_Paulo] PHP Warning:  mkdir(): Permission denied in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 122
+[12-Jul-2016 18:32:51 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/sgpi/uploads/atendente/148/25514-timbrado4.pdf): failed to open stream: No such file or directory in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:32:51 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpp2bpDH' to '/sgpi/uploads/atendente/148/25514-timbrado4.pdf' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:36:09 America/Sao_Paulo] PHP Warning:  mkdir(): Permission denied in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 122
+[12-Jul-2016 18:36:09 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/sgpi/uploads/atendente/150/86009-timbrado4.pdf): failed to open stream: No such file or directory in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:36:09 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpX6IOe5' to '/sgpi/uploads/atendente/150/86009-timbrado4.pdf' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:43:55 America/Sao_Paulo] PHP Warning:  mkdir(): Permission denied in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 122
+[12-Jul-2016 18:43:55 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/sgpi/uploads/atendente/151/51315-timbrado4.pdf): failed to open stream: No such file or directory in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:43:55 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpg4qhZU' to '/sgpi/uploads/atendente/151/51315-timbrado4.pdf' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:44:59 America/Sao_Paulo] PHP Warning:  mkdir(): Permission denied in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 122
+[12-Jul-2016 18:44:59 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/sgpi/uploads/atendente/152/48197-timbrado4.pdf): failed to open stream: No such file or directory in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:44:59 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjBhLOH' to '/sgpi/uploads/atendente/152/48197-timbrado4.pdf' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 123
+[12-Jul-2016 18:46:55 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/sgpi/uploads/atendente/47309-timbrado4.pdf): failed to open stream: No such file or directory in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 121
+[12-Jul-2016 18:46:55 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGZDqJr' to '/sgpi/uploads/atendente/47309-timbrado4.pdf' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 121
+[12-Jul-2016 19:22:33 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 110
+[12-Jul-2016 19:23:25 America/Sao_Paulo] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 110
+[12-Jul-2016 21:04:43 America/Sao_Paulo] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 117
+[12-Jul-2016 21:11:34 America/Sao_Paulo] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/atendente/cadastrar.php on line 117
+[30-Jan-2017 21:01:09 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jan-2017 21:01:11 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jan-2017 21:01:41 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jan-2017 21:01:43 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jan-2017 21:01:51 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jan-2017 21:01:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Feb-2017 17:59:13 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Feb-2017 15:30:43 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Feb-2017 15:30:46 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Feb-2017 15:32:10 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Feb-2017 15:32:53 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Feb-2017 15:33:21 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:45:12 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:45:14 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:45:52 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:45:54 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:48:43 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:48:45 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-Mar-2017 16:22:39 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 15:45:49 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 15:45:51 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 15:59:17 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 15:59:26 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 16:10:16 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:38:37 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:38:39 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:39:58 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Mar-2017 18:39:59 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:29 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:31 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:35 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:36 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:40 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:46 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:47 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:49 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 16:26:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Mar-2017 18:10:10 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 17:07:47 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-Apr-2017 21:04:37 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 10:33:52 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 14:07:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Apr-2017 16:19:03 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Apr-2017 16:19:04 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Apr-2017 18:27:05 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Apr-2017 18:27:16 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Apr-2017 18:27:18 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[08-May-2017 20:32:23 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-May-2017 20:32:28 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-May-2017 20:32:33 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-May-2017 20:32:35 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-May-2017 20:32:39 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[19-May-2017 18:02:00 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[19-May-2017 18:02:08 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[19-May-2017 18:02:28 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:10 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:20 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:24 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:27 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:29 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:35 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:36 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:40 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:41 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:44 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:45 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:47 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:47 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:48 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:31:48 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Aug-2019 08:34:23 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[31-Aug-2019 08:34:27 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:40:49 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:40:55 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:41:00 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:41:07 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:42:43 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:42:47 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:45:32 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:45:33 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:45:37 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:45:41 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:45:44 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:46:03 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:46:04 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Sep-2019 13:46:06 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[10-Sep-2019 14:38:54 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[10-Sep-2019 14:39:08 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0

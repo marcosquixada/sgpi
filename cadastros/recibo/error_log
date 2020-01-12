@@ -1,0 +1,344 @@
+[20-May-2016 23:07:23 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Cannot open timbrado.pdf !' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdi/pdf_parser.php:183
+Stack trace:
+#0 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdi/fpdi_pdf_parser.php(64): pdf_parser->__construct('timbrado.pdf')
+#1 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdi/fpdi.php(123): fpdi_pdf_parser->__construct('timbrado.pdf')
+#2 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdi/fpdi.php(101): FPDI->_getPdfParser('timbrado.pdf')
+#3 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php(88): FPDI->setSourceFile('timbrado.pdf')
+#4 {main}
+  thrown in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdi/pdf_parser.php on line 183
+[20-May-2016 23:16:13 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php:42)' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php(166): FPDF->Output('recibo.pdf', 'D')
+#3 {main}
+  thrown in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php on line 271
+[20-May-2016 23:17:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php:42)' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php(166): FPDF->Output('recibo.pdf', 'D')
+#3 {main}
+  thrown in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php on line 271
+[20-May-2016 23:21:39 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php:42) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[20-May-2016 23:22:27 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php:42) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[20-May-2016 23:29:36 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[20-May-2016 23:30:03 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[21-May-2016 08:27:53 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[21-May-2016 12:36:20 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 117
+[21-May-2016 12:36:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 132
+[21-May-2016 12:36:20 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 144
+[21-May-2016 12:37:05 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 117
+[21-May-2016 12:37:05 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 132
+[21-May-2016 12:37:05 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 144
+[21-May-2016 12:37:20 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 112
+[21-May-2016 12:37:20 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 117
+[21-May-2016 12:37:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 132
+[21-May-2016 12:37:20 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 144
+[21-May-2016 12:43:55 America/Chicago] PHP Fatal error:  Function name must be a string in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php on line 41
+[22-May-2016 16:26:54 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[23-May-2016 09:53:49 America/Chicago] PHP Fatal error:  Call to undefined method FPDF::setSourceFile() in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php on line 97
+[23-May-2016 09:57:52 America/Chicago] PHP Warning:  include(/home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/font/helvetica11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php on line 1143
+[23-May-2016 09:57:52 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/font/helvetica11.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php on line 1143
+[23-May-2016 09:57:52 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Could not include font definition file' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php(1145): FPDF->Error('Could not inclu...')
+#1 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php(459): FPDF->_loadfont('helvetica11.php')
+#2 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php(507): FPDF->AddFont('helvetica', '11')
+#3 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdi/fpdf_tpl.php(306): FPDF->SetFont('Arial', 11, NULL)
+#4 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php(113): FPDF_TPL->SetFont('Arial', 11)
+#5 {main}
+  thrown in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php on line 271
+[23-May-2016 10:00:50 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[24-May-2016 09:52:11 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[24-May-2016 12:19:02 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[24-May-2016 12:31:20 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[24-May-2016 15:20:45 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[25-May-2016 16:31:32 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[27-May-2016 17:08:26 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[30-May-2016 16:35:07 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[31-May-2016 16:52:05 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[01-Jun-2016 17:37:19 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[06-Jun-2016 15:12:31 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[13-Jun-2016 17:45:37 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 6
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 6
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 6
+[13-Jun-2016 17:45:37 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 9
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 9
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 9
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 50
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 66
+[13-Jun-2016 17:45:37 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 109
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 109
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 109
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 117
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 132
+[13-Jun-2016 17:45:37 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 144
+[13-Jun-2016 17:46:58 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 109
+[13-Jun-2016 17:46:58 America/Chicago] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 117
+[13-Jun-2016 17:46:58 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 132
+[13-Jun-2016 17:46:58 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/index.php on line 144
+[13-Jun-2016 19:17:29 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php on line 6
+[13-Jun-2016 19:17:29 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php on line 6
+[13-Jun-2016 19:17:29 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php on line 6
+[13-Jun-2016 19:17:29 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php on line 9
+[13-Jun-2016 19:17:29 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php on line 9
+[13-Jun-2016 19:17:29 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php on line 9
+[13-Jun-2016 19:17:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php:6) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[13-Jun-2016 19:17:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php on line 180
+[13-Jun-2016 19:17:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/cadastrar.php on line 197
+[13-Jun-2016 19:43:18 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php on line 36
+[13-Jun-2016 19:43:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php on line 36
+[13-Jun-2016 19:43:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php on line 36
+[13-Jun-2016 19:43:18 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php on line 41
+[13-Jun-2016 19:43:18 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message '[Exceção em GExtenso::moeda] Parâmetro $valor não é numérico (recebido: '')' in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/GExtenso/GExtenso.php:298
+Stack trace:
+#0 /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/recibo/recibo3.php(47): GExtenso::moeda('')
+#1 {main}
+  thrown in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/GExtenso/GExtenso.php on line 298
+[17-Jun-2016 16:14:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[17-Jun-2016 16:16:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[18-Jun-2016 08:27:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[18-Jun-2016 11:19:35 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[20-Jun-2016 12:21:45 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[20-Jun-2016 12:27:06 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[21-Jun-2016 18:02:54 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[21-Jun-2016 18:02:54 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[22-Jun-2016 15:34:51 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[02-Jul-2016 09:31:25 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[15-Jul-2016 15:45:30 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[15-Jul-2016 16:45:31 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[16-Jul-2016 12:03:17 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[16-Jul-2016 12:04:14 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[16-Jul-2016 12:04:46 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[16-Jul-2016 12:05:05 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[18-Jul-2016 17:32:36 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[22-Jul-2016 15:49:47 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[30-Jul-2016 10:43:04 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[04-Aug-2016 18:24:20 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[27-Aug-2016 09:45:29 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[27-Aug-2016 09:47:46 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[29-Aug-2016 12:55:24 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[29-Aug-2016 12:56:04 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[29-Aug-2016 14:55:33 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[14-Sep-2016 17:52:33 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mqsys082/public_html/credimovelsi.com.br/sgpi/libs/fpdf/fpdf.php:1017) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/header.php on line 3
+[14-Mar-2017 11:12:12 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Mar-2017 11:12:14 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Mar-2017 11:12:34 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Mar-2017 13:18:36 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Mar-2017 13:18:38 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-Mar-2017 13:18:42 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 17:19:18 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 17:19:21 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 17:19:40 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 17:19:41 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 17:19:45 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:43:50 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:43:58 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:44:02 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:44:14 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:44:16 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:45:07 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:39:23 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:39:30 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:39:38 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:39:48 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:40:14 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:40:18 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Apr-2017 15:43:21 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Apr-2017 21:41:12 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Apr-2017 21:41:15 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Apr-2017 21:41:19 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Jun-2017 14:19:47 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jun-2017 14:19:51 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jun-2017 14:19:54 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jun-2017 14:21:33 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jun-2017 14:21:37 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jun-2017 14:32:42 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jun-2017 14:32:45 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Nov-2017 13:52:52 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Nov-2017 13:52:55 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Nov-2017 13:53:18 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Jan-2018 15:41:41 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Jan-2018 15:41:42 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Jan-2018 15:41:49 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Jan-2018 15:42:25 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:39:27 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Jan-2018 15:39:28 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[04-Sep-2019 15:06:53 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0

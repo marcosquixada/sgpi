@@ -1,0 +1,297 @@
+[28-Apr-2016 22:41:31 America/Chicago] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[28-Apr-2016 22:44:18 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[28-Apr-2016 22:44:18 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 41
+[02-May-2016 08:53:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 14
+[02-May-2016 08:55:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 37
+[02-May-2016 08:55:03 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 55
+[02-May-2016 08:55:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 37
+[02-May-2016 08:55:20 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 55
+[02-May-2016 08:56:21 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 38
+[02-May-2016 08:56:21 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 56
+[02-May-2016 08:56:37 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 38
+[02-May-2016 08:56:37 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 56
+[02-May-2016 09:00:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 38
+[02-May-2016 09:00:00 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 56
+[02-May-2016 09:23:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 18
+[02-May-2016 09:23:53 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 45
+[02-May-2016 09:23:53 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 62
+[02-May-2016 09:24:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 20
+[02-May-2016 09:24:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 47
+[02-May-2016 09:24:39 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 64
+[02-May-2016 09:26:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 19
+[02-May-2016 09:26:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 46
+[02-May-2016 09:26:50 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 63
+[02-May-2016 09:28:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 20
+[02-May-2016 09:28:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 47
+[02-May-2016 09:28:39 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 64
+[02-May-2016 09:29:13 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 21
+[02-May-2016 09:29:13 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 48
+[02-May-2016 09:29:13 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 65
+[02-May-2016 09:39:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 18
+[02-May-2016 09:39:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 48
+[02-May-2016 09:39:06 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 65
+[02-May-2016 09:39:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 18
+[02-May-2016 09:39:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 48
+[02-May-2016 09:39:48 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 65
+[02-May-2016 09:41:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 18
+[02-May-2016 09:41:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 48
+[02-May-2016 09:41:23 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 65
+[02-May-2016 10:30:44 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 20
+[02-May-2016 10:34:15 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 20
+[02-May-2016 10:34:50 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 20
+[02-May-2016 10:40:47 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 49
+[02-May-2016 11:10:22 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 69
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 11:11:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 28
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:24:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:34:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 13:50:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 16:51:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 59
+[02-May-2016 16:51:26 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 76
+[02-May-2016 16:57:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 59
+[02-May-2016 16:57:23 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 76
+[02-May-2016 17:11:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 19
+[02-May-2016 17:15:13 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 19
+[02-May-2016 17:15:13 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 59
+[02-May-2016 17:15:13 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 76
+[02-May-2016 17:15:32 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 19
+[02-May-2016 17:15:32 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 59
+[02-May-2016 17:15:32 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 76
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:16:26 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 24
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:19:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 31
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 32
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 32
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 32
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 32
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 32
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 32
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 25
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 32
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:21:47 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 26
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 27
+[02-May-2016 17:24:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 33
+[02-May-2016 17:26:34 America/Chicago] PHP Warning:  fclose(): 7 is not a valid stream resource in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 34
+[02-May-2016 17:26:34 America/Chicago] PHP Warning:  fclose(): 7 is not a valid stream resource in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 34
+[02-May-2016 17:26:34 America/Chicago] PHP Warning:  fclose(): 7 is not a valid stream resource in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 34
+[02-May-2016 17:26:34 America/Chicago] PHP Warning:  fclose(): 7 is not a valid stream resource in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 34
+[02-May-2016 17:26:34 America/Chicago] PHP Warning:  fclose(): 7 is not a valid stream resource in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 34
+[02-May-2016 17:26:34 America/Chicago] PHP Warning:  fclose(): 7 is not a valid stream resource in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 34
+[02-May-2016 17:26:34 America/Chicago] PHP Warning:  fclose(): 7 is not a valid stream resource in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 34
+[03-May-2016 07:47:57 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 46
+[03-May-2016 07:47:57 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 46
+[03-May-2016 07:47:57 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 60
+[03-May-2016 07:47:57 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 74
+[03-May-2016 08:33:55 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 76
+[03-May-2016 08:34:09 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/mqsys082/public_html/sgpi/cadastros/processo_documento/index.php on line 76
+[13-Jun-2016 19:20:26 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 46
+[13-Jun-2016 19:20:26 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 46
+[13-Jun-2016 19:20:26 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 46
+[13-Jun-2016 19:20:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 60
+[13-Jun-2016 19:20:26 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 74
+[22-Jun-2016 15:02:11 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 15:02:11 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 15:02:11 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 15:02:17 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 15:02:17 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 15:02:17 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 15:03:23 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 15:03:23 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 15:03:23 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 17:25:27 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 17:25:27 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[22-Jun-2016 17:25:27 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/download.php on line 11
+[12-Jul-2016 20:52:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 69
+[12-Jul-2016 20:53:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 69
+[12-Jul-2016 20:53:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 69
+[12-Jul-2016 20:53:33 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 69
+[12-Jul-2016 20:53:36 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 69
+[14-Jul-2016 00:55:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$entregue' (T_VARIABLE) in /home/mqsys082/public_html/credimovelsi.com.br/sgpi/cadastros/cliente_documento/index.php on line 16
+[30-May-2017 14:52:06 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[07-Dec-2017 19:33:06 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[07-Dec-2017 21:24:21 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
